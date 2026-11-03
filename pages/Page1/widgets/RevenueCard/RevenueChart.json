@@ -1,0 +1,140 @@
+{
+  "accentColor": "#4f46e5",
+  "allowScroll": false,
+  "animateLoading": true,
+  "borderRadius": "0.5rem",
+  "bottomRow": 35,
+  "boxShadow": "none",
+  "chartData": {
+    "s1": {
+      "color": "#4f46e5",
+      "data": [
+        {
+          "x": "Jan",
+          "y": 48
+        },
+        {
+          "x": "Feb",
+          "y": 53
+        },
+        {
+          "x": "Mar",
+          "y": 59
+        },
+        {
+          "x": "Apr",
+          "y": 63
+        },
+        {
+          "x": "May",
+          "y": 70
+        },
+        {
+          "x": "Jun",
+          "y": 76
+        },
+        {
+          "x": "Jul",
+          "y": 79
+        },
+        {
+          "x": "Aug",
+          "y": 86
+        },
+        {
+          "x": "Sep",
+          "y": 92
+        },
+        {
+          "x": "Oct",
+          "y": 98
+        }
+      ],
+      "seriesName": "2026"
+    },
+    "s2": {
+      "color": "#cbd5e1",
+      "data": [
+        {
+          "x": "Jan",
+          "y": 42
+        },
+        {
+          "x": "Feb",
+          "y": 45
+        },
+        {
+          "x": "Mar",
+          "y": 51
+        },
+        {
+          "x": "Apr",
+          "y": 49
+        },
+        {
+          "x": "May",
+          "y": 58
+        },
+        {
+          "x": "Jun",
+          "y": 62
+        },
+        {
+          "x": "Jul",
+          "y": 60
+        },
+        {
+          "x": "Aug",
+          "y": 67
+        },
+        {
+          "x": "Sep",
+          "y": 71
+        },
+        {
+          "x": "Oct",
+          "y": 74
+        }
+      ],
+      "seriesName": "2025"
+    }
+  },
+  "chartName": "Revenue",
+  "chartType": "LINE_CHART",
+  "customFusionChartConfig": {
+    "dataSource": {
+      "data": [
+        {
+          "label": "Product1",
+          "value": 1000
+        }
+      ]
+    },
+    "type": "column2d"
+  },
+  "dynamicBindingPathList": [],
+  "dynamicTriggerPathList": [],
+  "isLoading": false,
+  "isVisible": true,
+  "key": "b14d0246fc",
+  "labelOrientation": "auto",
+  "leftColumn": 2,
+  "mobileBottomRow": 35,
+  "mobileLeftColumn": 2,
+  "mobileRightColumn": 62,
+  "mobileTopRow": 8,
+  "parentColumnSpace": 12.29,
+  "parentId": "ebbe3a1324",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 62,
+  "setAdaptiveYMin": false,
+  "showDataPointLabel": false,
+  "topRow": 8,
+  "type": "CHART_WIDGET",
+  "version": 1,
+  "widgetId": "5da9a620e8",
+  "widgetName": "RevenueChart",
+  "xAxisName": "Month",
+  "yAxisName": "Revenue ($K)"
+}

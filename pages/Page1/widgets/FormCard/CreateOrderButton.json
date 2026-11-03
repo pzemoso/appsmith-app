@@ -1,0 +1,40 @@
+{
+  "animateLoading": true,
+  "borderRadius": "0.5rem",
+  "bottomRow": 31,
+  "boxShadow": "none",
+  "buttonColor": "#4f46e5",
+  "buttonVariant": "PRIMARY",
+  "dynamicBindingPathList": [],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "iconAlign": "left",
+  "iconName": "add",
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "e56d06ef83",
+  "leftColumn": 3,
+  "mobileBottomRow": 31,
+  "mobileLeftColumn": 3,
+  "mobileRightColumn": 61,
+  "mobileTopRow": 27,
+  "onClick": "{{showAlert('Order created for ' + CustomerInput.text, 'success')}}",
+  "parentColumnSpace": 6.6,
+  "parentId": "1df333a9d0",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "rightColumn": 61,
+  "text": "Create Order",
+  "topRow": 27,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "149298d11b",
+  "widgetName": "CreateOrderButton"
+}

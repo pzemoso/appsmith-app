@@ -1,0 +1,73 @@
+{
+  "accentColor": "#4f46e5",
+  "allowScroll": false,
+  "animateLoading": true,
+  "borderRadius": "0.5rem",
+  "bottomRow": 35,
+  "boxShadow": "none",
+  "chartData": {
+    "s1": {
+      "data": [
+        {
+          "x": "Electronics",
+          "y": 38
+        },
+        {
+          "x": "Apparel",
+          "y": 24
+        },
+        {
+          "x": "Home",
+          "y": 18
+        },
+        {
+          "x": "Beauty",
+          "y": 12
+        },
+        {
+          "x": "Sports",
+          "y": 8
+        }
+      ],
+      "seriesName": "Sales"
+    }
+  },
+  "chartName": "Category",
+  "chartType": "PIE_CHART",
+  "customFusionChartConfig": {
+    "dataSource": {
+      "data": [
+        {
+          "label": "Product1",
+          "value": 1000
+        }
+      ]
+    },
+    "type": "column2d"
+  },
+  "dynamicBindingPathList": [],
+  "dynamicTriggerPathList": [],
+  "isLoading": false,
+  "isVisible": true,
+  "key": "2d673d9131",
+  "labelOrientation": "auto",
+  "leftColumn": 2,
+  "mobileBottomRow": 35,
+  "mobileLeftColumn": 2,
+  "mobileRightColumn": 62,
+  "mobileTopRow": 8,
+  "parentColumnSpace": 6.6,
+  "parentId": "8598ba75cf",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 62,
+  "setAdaptiveYMin": false,
+  "showDataPointLabel": true,
+  "topRow": 8,
+  "type": "CHART_WIDGET",
+  "version": 1,
+  "widgetId": "414caceca6",
+  "widgetName": "CategoryChart",
+  "xAxisName": "",
+  "yAxisName": ""
+}
